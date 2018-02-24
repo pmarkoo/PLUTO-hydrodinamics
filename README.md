@@ -6,4 +6,6 @@ Our simulations are performed by using the publicly available, Godunov-type code
 
 We developed [non-linear diffusive shock acceleration module](https://github.com/pmarkoo/PLUTO-hydrodinamics/blob/master/blasi.c), which runs parallel with [PLUTO](http://plutocode.ph.unito.it/) code, simultaneously performs calculations of magnetic field amplification, synthesize the global radio emission in this amplified field and also accounts for the backreaction of accelerated cosmic rays on hydrodynamics. Non-linear effects on SNR hydrodynamics are visible only through the effective adiabatic index.
 
+![](https://github.com/pmarkoo/PLUTO-hydrodinamics/blob/master/fig.png)
+
 Results were published in [Pavlovic 2017](https://academic.oup.com/mnras/article-abstract/468/2/1616/3055708?redirectedFrom=fulltext), [Pavlovic et al. 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaa1e6/meta) and [Urosevic, Pavlovic and Arbutina 2018](https://arxiv.org/abs/1801.10422).
